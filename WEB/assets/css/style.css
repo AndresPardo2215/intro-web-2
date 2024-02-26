@@ -1,0 +1,24 @@
+* { /*  */
+    margin:0;
+    padding:0;
+}
+
+body {/* selector de elemento, tipo ,etiqueta */
+    background-color: antiquewhite;
+}
+
+p,
+h1,
+h2 { /* todos los elementos p */
+    color: brown;
+}
+
+
+*{
+    text-align: center;
+}
+
+th,
+td {
+    border: 1px dashed red;
+}
